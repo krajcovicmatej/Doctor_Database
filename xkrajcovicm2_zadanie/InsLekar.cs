@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace xkrajcovicm2_zadanie
+namespace Doctor_Database
 {
 	public partial class InsLekar : Form
 	{

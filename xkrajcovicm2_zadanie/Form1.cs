@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using Oracle.DataAccess.Client;
 
 
-namespace xkrajcovicm2_zadanie
+namespace Doctor_Database
 {
 	public partial class Form1 : Form
 	{

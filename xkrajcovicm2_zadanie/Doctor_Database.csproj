@@ -32,8 +32,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{B57EA7A8-DC01-4D2E-82BF-7C82B9E855D2}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>xkrajcovicm2_zadanie</RootNamespace>
-    <AssemblyName>xkrajcovicm2_zadanie</AssemblyName>
+    <RootNamespace>Doctor_Database</RootNamespace>
+    <AssemblyName>Doctor_Database</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -226,6 +226,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="UptLekar.resx">
       <DependentUpon>UptLekar.cs</DependentUpon>

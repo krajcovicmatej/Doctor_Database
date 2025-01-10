@@ -1,4 +1,4 @@
-﻿namespace xkrajcovicm2_zadanie
+﻿namespace Doctor_Database
 {
 	partial class Form1
 	{
